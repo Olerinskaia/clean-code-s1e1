@@ -158,7 +158,7 @@ li > input[type="text"] {
 }
 
 /* Edit Task */
-ul li input[type=text] {
+.todo__task {
     display: none
 }
 
