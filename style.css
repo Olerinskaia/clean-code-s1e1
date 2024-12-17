@@ -141,13 +141,13 @@ li > input[type="text"] {
     width: 226px
 }
 
-.todo_button-img {
+.todo__icon {
     height: 2em;
     transform: rotateZ(45deg);
     transition: transform 200ms ease-in;
 }
 
-.todo_button-img:hover {
+.todo__icon:hover {
     transform: rotateZ(0);
 }
 
